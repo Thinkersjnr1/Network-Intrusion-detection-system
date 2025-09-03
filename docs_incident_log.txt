@@ -1,0 +1,7 @@
+Attack Start: 22:00
+Detected: 22:02
+Contained: 22:03
+Eradicated: 22:04
+Recovered: 22:05
+Gaps: Slow detection (2 mins)—consider Wazuh email alerts.
+Improvements: Integrate phishing, automate runs.
